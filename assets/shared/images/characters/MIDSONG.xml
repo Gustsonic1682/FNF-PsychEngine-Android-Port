@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MIDSONG.png">
+<SubTexture name="MIDSONG0000" x="297" y="1632" width="272" height="384" frameX="-253" frameY="-386" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0001" x="297" y="1632" width="272" height="384" frameX="-253" frameY="-386" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0002" x="1096" y="1220" width="274" height="395" frameX="-247" frameY="-375" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0003" x="1096" y="1220" width="274" height="395" frameX="-247" frameY="-375" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0004" x="1370" y="1220" width="274" height="392" frameX="-249" frameY="-378" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0005" x="1370" y="1220" width="274" height="392" frameX="-249" frameY="-378" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0006" x="297" y="1632" width="272" height="384" frameX="-253" frameY="-386" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0007" x="297" y="1632" width="272" height="384" frameX="-253" frameY="-386" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0008" x="297" y="1632" width="272" height="384" frameX="-253" frameY="-386" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0009" x="297" y="1632" width="272" height="384" frameX="-253" frameY="-386" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0010" x="1766" y="0" width="270" height="392" frameX="-256" frameY="-378" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0011" x="1324" y="797" width="289" height="412" frameX="-234" frameY="-360" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0012" x="1324" y="797" width="289" height="412" frameX="-234" frameY="-360" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0013" x="300" y="797" width="289" height="415" frameX="-236" frameY="-356" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0014" x="298" y="1220" width="290" height="410" frameX="-233" frameY="-361" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0015" x="298" y="1220" width="290" height="410" frameX="-233" frameY="-361" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0016" x="298" y="1220" width="290" height="410" frameX="-233" frameY="-361" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0017" x="298" y="1220" width="290" height="410" frameX="-233" frameY="-361" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0018" x="298" y="1220" width="290" height="410" frameX="-233" frameY="-361" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0019" x="298" y="1220" width="290" height="410" frameX="-233" frameY="-361" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0020" x="569" y="1632" width="304" height="384" frameX="-203" frameY="-387" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0021" x="413" y="0" width="422" height="765" frameX="-154" frameY="0" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0022" x="835" y="0" width="438" height="765" frameX="-170" frameY="0" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0023" x="0" y="0" width="413" height="797" frameX="-169" frameY="0" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0024" x="1273" y="0" width="493" height="717" frameX="-157" frameY="-82" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0025" x="588" y="1220" width="508" height="403" frameX="-118" frameY="-411" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0026" x="589" y="797" width="735" height="415" frameX="-44" frameY="-395" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0027" x="1175" y="1632" width="815" height="331" frameX="0" frameY="-489" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0028" x="2036" y="0" width="785" height="322" frameX="-9" frameY="-489" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0029" x="2036" y="322" width="783" height="320" frameX="-9" frameY="-489" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0030" x="873" y="1632" width="302" height="349" frameX="-244" frameY="-455" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0031" x="873" y="1632" width="302" height="349" frameX="-244" frameY="-455" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0032" x="0" y="1632" width="297" height="392" frameX="-214" frameY="-395" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0033" x="0" y="1632" width="297" height="392" frameX="-214" frameY="-395" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0034" x="0" y="797" width="300" height="423" frameX="-211" frameY="-364" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0035" x="0" y="797" width="300" height="423" frameX="-211" frameY="-364" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0036" x="0" y="1220" width="298" height="412" frameX="-213" frameY="-374" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0037" x="0" y="1220" width="298" height="412" frameX="-213" frameY="-374" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0038" x="0" y="1220" width="298" height="412" frameX="-213" frameY="-374" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0039" x="0" y="1220" width="298" height="412" frameX="-213" frameY="-374" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0040" x="0" y="1220" width="298" height="412" frameX="-213" frameY="-374" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0041" x="0" y="1220" width="298" height="412" frameX="-213" frameY="-374" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0042" x="0" y="1220" width="298" height="412" frameX="-213" frameY="-374" frameWidth="815" frameHeight="820" />
+<SubTexture name="MIDSONG0043" x="0" y="1220" width="298" height="412" frameX="-213" frameY="-374" frameWidth="815" frameHeight="820" />
+</TextureAtlas>

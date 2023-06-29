@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="IIgirlfriend.png">
+<SubTexture name="GFBopping instance 0000" x="0" y="560" width="352" height="279" frameX="-12" frameY="-1" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0001" x="0" y="560" width="352" height="279" frameX="-12" frameY="-1" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0002" x="699" y="560" width="354" height="276" frameX="-3" frameY="-4" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0003" x="699" y="560" width="354" height="276" frameX="-3" frameY="-4" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0004" x="1054" y="0" width="359" height="275" frameX="0" frameY="-5" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0005" x="1054" y="0" width="359" height="275" frameX="0" frameY="-5" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0006" x="0" y="0" width="353" height="280" frameX="-6" frameY="0" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0007" x="0" y="0" width="353" height="280" frameX="-6" frameY="0" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0008" x="353" y="0" width="351" height="280" frameX="-8" frameY="0" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0009" x="353" y="0" width="351" height="280" frameX="-8" frameY="0" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0010" x="0" y="280" width="359" height="280" frameX="-5" frameY="0" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0011" x="0" y="280" width="359" height="280" frameX="-5" frameY="0" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0012" x="704" y="280" width="347" height="278" frameX="-10" frameY="-2" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0013" x="704" y="280" width="347" height="278" frameX="-10" frameY="-2" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0014" x="352" y="560" width="347" height="277" frameX="-12" frameY="-3" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0015" x="352" y="560" width="347" height="277" frameX="-12" frameY="-3" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0016" x="704" y="0" width="350" height="280" frameX="-9" frameY="0" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0017" x="704" y="0" width="350" height="280" frameX="-9" frameY="0" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0018" x="353" y="0" width="351" height="280" frameX="-8" frameY="0" frameWidth="365" frameHeight="280" />
+<SubTexture name="GFBopping instance 0019" x="353" y="0" width="351" height="280" frameX="-8" frameY="0" frameWidth="365" frameHeight="280" />
+</TextureAtlas>
