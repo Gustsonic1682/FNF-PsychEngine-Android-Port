@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cascadeBG.png">
+<SubTexture name="EHZGROUND0000" x="0" y="972" width="1500" height="960" frameX="-23" frameY="0" frameWidth="1523" frameHeight="972" />
+<SubTexture name="EHZGROUND0001" x="1500" y="972" width="1506" height="960" frameX="-17" frameY="0" frameWidth="1523" frameHeight="972" />
+<SubTexture name="EHZGROUND0002" x="1506" y="0" width="1507" height="965" frameX="-16" frameY="0" frameWidth="1523" frameHeight="972" />
+<SubTexture name="EHZGROUND0003" x="0" y="0" width="1506" height="972" frameX="-17" frameY="0" frameWidth="1523" frameHeight="972" />
+<SubTexture name="EHZGROUND0004" x="0" y="1932" width="1516" height="960" frameX="-7" frameY="0" frameWidth="1523" frameHeight="972" />
+<SubTexture name="EHZGROUND0005" x="3013" y="0" width="1523" height="960" frameX="0" frameY="0" frameWidth="1523" frameHeight="972" />
+</TextureAtlas>
